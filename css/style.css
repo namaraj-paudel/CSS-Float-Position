@@ -1,0 +1,53 @@
+
+.card1 {
+    width: 270px;
+    height: auto;
+    box-shadow: 0px 0px 5px 0px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 300px;
+    position: relative;
+}
+
+.card2 {
+    width: 270px;
+    height: auto;
+    box-shadow: 0px 0px 5px 0px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 20px;
+    position: relative;
+}
+
+.card3 {
+    width: 270px;
+    height: auto;
+    box-shadow: 0px 0px 5px 0px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 20px;
+    position: relative;
+}
+
+img {
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+}
+
+.detail {
+    padding: 10px;
+    margin-top: -20px;
+}
+
+.detail h4{
+    position:absolute;
+    top:0px;
+    right: 10px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.detail p {
+    font-weight: 100;
+}
