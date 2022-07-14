@@ -1,25 +1,9 @@
 
-.card1 {
-    width: 270px;
-    height: auto;
-    box-shadow: 0px 0px 5px 0px;
-    border-radius: 5px;
-    float: left;
-    margin-left: 300px;
-    position: relative;
+.container {
+    margin-left: 320px;
 }
 
-.card2 {
-    width: 270px;
-    height: auto;
-    box-shadow: 0px 0px 5px 0px;
-    border-radius: 5px;
-    float: left;
-    margin-left: 20px;
-    position: relative;
-}
-
-.card3 {
+.card {
     width: 270px;
     height: auto;
     box-shadow: 0px 0px 5px 0px;
@@ -43,7 +27,7 @@ img {
 .detail h4{
     position:absolute;
     top:0px;
-    right: 10px;
+    right: 12px;
     font-weight: bolder;
     font-size: larger;
     text-shadow: 2px 2px 3px pink;
